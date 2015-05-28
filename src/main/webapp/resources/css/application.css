@@ -1,0 +1,22 @@
+#content {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+#content table {
+    width: 100%;
+}
+
+.ng-valid {
+    border-color: green;
+    outline-color: green;
+}
+.ng-dirty.ng-invalid {
+    border-color: red;
+    outline-color: red;
+}
